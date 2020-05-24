@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "https://renato-bohler.github.io/logossim/static/css/main.9b11350f.chunk.css",
+    "main.js": "https://renato-bohler.github.io/logossim/static/js/main.5553a68c.chunk.js",
+    "main.js.map": "https://renato-bohler.github.io/logossim/static/js/main.5553a68c.chunk.js.map",
+    "runtime-main.js": "https://renato-bohler.github.io/logossim/static/js/runtime-main.718ee782.js",
+    "runtime-main.js.map": "https://renato-bohler.github.io/logossim/static/js/runtime-main.718ee782.js.map",
+    "static/css/2.fbd218b0.chunk.css": "https://renato-bohler.github.io/logossim/static/css/2.fbd218b0.chunk.css",
+    "static/js/2.01551f7e.chunk.js": "https://renato-bohler.github.io/logossim/static/js/2.01551f7e.chunk.js",
+    "static/js/2.01551f7e.chunk.js.map": "https://renato-bohler.github.io/logossim/static/js/2.01551f7e.chunk.js.map",
+    "SimulationWorker.a337eedeea443fff512c.js": "https://renato-bohler.github.io/logossim/SimulationWorker.a337eedeea443fff512c.js",
+    "SimulationWorker.a337eedeea443fff512c.js.map": "https://renato-bohler.github.io/logossim/SimulationWorker.a337eedeea443fff512c.js.map",
+    "index.html": "https://renato-bohler.github.io/logossim/index.html",
+    "precache-manifest.05bdc683ca30e2c4c75da3912f58b021.js": "https://renato-bohler.github.io/logossim/precache-manifest.05bdc683ca30e2c4c75da3912f58b021.js",
+    "service-worker.js": "https://renato-bohler.github.io/logossim/service-worker.js",
+    "static/css/2.fbd218b0.chunk.css.map": "https://renato-bohler.github.io/logossim/static/css/2.fbd218b0.chunk.css.map",
+    "static/css/main.9b11350f.chunk.css.map": "https://renato-bohler.github.io/logossim/static/css/main.9b11350f.chunk.css.map",
+    "static/js/2.01551f7e.chunk.js.LICENSE.txt": "https://renato-bohler.github.io/logossim/static/js/2.01551f7e.chunk.js.LICENSE.txt",
+    "static/media/bifurcation.gif": "https://renato-bohler.github.io/logossim/static/media/bifurcation.e3ec32b9.gif",
+    "static/media/context-menu.gif": "https://renato-bohler.github.io/logossim/static/media/context-menu.94343183.gif",
+    "static/media/simulation.gif": "https://renato-bohler.github.io/logossim/static/media/simulation.2d0f910c.gif",
+    "static/media/wire.gif": "https://renato-bohler.github.io/logossim/static/media/wire.e7e521da.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.718ee782.js",
+    "static/css/2.fbd218b0.chunk.css",
+    "static/js/2.01551f7e.chunk.js",
+    "static/css/main.9b11350f.chunk.css",
+    "static/js/main.5553a68c.chunk.js"
+  ]
+}
